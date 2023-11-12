@@ -1,0 +1,9 @@
+.hov:hover {
+  box-shadow: 0px 0px 0px 50px transparent;
+  transition: 1s;
+}
+
+/* .btn:hover {
+  box-shadow: 0px 0px 0px 50px transparent;
+  transition: 1s;
+} */
